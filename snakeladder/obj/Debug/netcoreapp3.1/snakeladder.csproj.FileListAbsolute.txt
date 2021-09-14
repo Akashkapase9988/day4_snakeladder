@@ -1,0 +1,14 @@
+C:\Users\Akash\source\repos\snakeladder\bin\Debug\netcoreapp3.1\snakeladder.exe
+C:\Users\Akash\source\repos\snakeladder\bin\Debug\netcoreapp3.1\snakeladder.deps.json
+C:\Users\Akash\source\repos\snakeladder\bin\Debug\netcoreapp3.1\snakeladder.runtimeconfig.json
+C:\Users\Akash\source\repos\snakeladder\bin\Debug\netcoreapp3.1\snakeladder.runtimeconfig.dev.json
+C:\Users\Akash\source\repos\snakeladder\bin\Debug\netcoreapp3.1\snakeladder.dll
+C:\Users\Akash\source\repos\snakeladder\bin\Debug\netcoreapp3.1\snakeladder.pdb
+C:\Users\Akash\source\repos\snakeladder\obj\Debug\netcoreapp3.1\snakeladder.csproj.AssemblyReference.cache
+C:\Users\Akash\source\repos\snakeladder\obj\Debug\netcoreapp3.1\snakeladder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akash\source\repos\snakeladder\obj\Debug\netcoreapp3.1\snakeladder.AssemblyInfoInputs.cache
+C:\Users\Akash\source\repos\snakeladder\obj\Debug\netcoreapp3.1\snakeladder.AssemblyInfo.cs
+C:\Users\Akash\source\repos\snakeladder\obj\Debug\netcoreapp3.1\snakeladder.csproj.CoreCompileInputs.cache
+C:\Users\Akash\source\repos\snakeladder\obj\Debug\netcoreapp3.1\snakeladder.dll
+C:\Users\Akash\source\repos\snakeladder\obj\Debug\netcoreapp3.1\snakeladder.pdb
+C:\Users\Akash\source\repos\snakeladder\obj\Debug\netcoreapp3.1\snakeladder.genruntimeconfig.cache
