@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Akash\\source\\repos\\snakeladder\\snakeladder.csproj",
+      "projectUniqueName": "D:\\programs\\day4_snakeladder\\snakeladder\\snakeladder.csproj",
       "projectName": "snakeladder",
-      "projectPath": "C:\\Users\\Akash\\source\\repos\\snakeladder\\snakeladder.csproj",
+      "projectPath": "D:\\programs\\day4_snakeladder\\snakeladder\\snakeladder.csproj",
       "packagesPath": "C:\\Users\\Akash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Akash\\source\\repos\\snakeladder\\obj\\",
+      "outputPath": "D:\\programs\\day4_snakeladder\\snakeladder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Akash\\AppData\\Roaming\\NuGet\\NuGet.Config",

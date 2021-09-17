@@ -9,7 +9,7 @@ namespace snakeladder
             Console.WriteLine("Hello World!");
             //uc2rolldie.rolldie();
             //uc3check.check();
-           // uc4100.check100();
+           // uc4uc5uc6100.check100();
         }
     }
 }
