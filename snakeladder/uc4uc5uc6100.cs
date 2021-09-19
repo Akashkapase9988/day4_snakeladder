@@ -20,7 +20,7 @@ namespace snakeladder
                 Random random = new Random();
                 int optionCheck = random.Next(1, 4);
                // if (optionCheck = 2 | 3)
-               //   ++count;
+               ++count;
                 switch (optionCheck)
                 {
                     case 0:
@@ -38,8 +38,9 @@ namespace snakeladder
                             player -= ladder;
                             Console.WriteLine("abort playing because it go above 100");
                         }
-                        break;
                         
+                        break;
+                        ++count;
 
                     case 2:
 
@@ -52,14 +53,14 @@ namespace snakeladder
                             player = 0;
 
                         break;
-                        
+                        ++count;
                 }
 
                 Console.WriteLine("dice is rolled  :" + count + "  times");
                 Console.WriteLine("player come in position : " + player);
 
 
-            } while (player <= winning);
+            } while (player != winning);
             
         }
     }
